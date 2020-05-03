@@ -1,4 +1,4 @@
-# Репозиторий с домашними работами по курсу [Компьютерная лингвистика](https://mannefedov.github.io/compling_nlp_hse_course/)
+# Репозиторий с домашними работами по курсу [*Компьютерная лингвистика*](https://mannefedov.github.io/compling_nlp_hse_course/)
 
 Темы:
 - [HW1](https://github.com/slowwavesleep/Compling_M1_HSE/blob/master/HW1/HW1.ipynb) Предобработка текстов
